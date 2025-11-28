@@ -12,10 +12,10 @@ Segurança de dados e backups automáticos.
 
 🔗 LINKS IMPORTANTES
 📂 Repositório no GitHub (Código e Documentação):
-https://www.behance.net/gallery/239478265/...
+https://github.com/FatecFranca/ADS-P1-G4-2025-2/upload/main
 
 🎨 Portfólio no Behance (Processo de Design):
-https://github.com/FatecFranca/ADS-P1-G4-2...
+https://www.behance.net/gallery/239478265/PI-%28Projeto-integrador%29
 
 👨‍💻 INTEGRANTES DO GRUPO TELA AZUL
 Brendon Heitor 
