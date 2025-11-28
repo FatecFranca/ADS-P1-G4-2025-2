@@ -29,3 +29,5 @@ Vitor Glegorio
 FATEC Franca - Dr. Thomaz Novelino
 Curso: Análise e Desenvolvimento de Sistemas (Noturno)
 Semestre: 1º Semestre / 2025
+
+PITCH: https://youtu.be/L5TP1GqOjUw
